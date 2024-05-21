@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681411204257",
+    "project_id": "aiappjam2024",
+    "storage_bucket": "aiappjam2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681411204257:android:c80ece645385117091cce0",
+        "android_client_info": {
+          "package_name": "com.example.ai_app_jam2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHhxg7QP1PS1wa6O_Xnilmc2YAeCqspQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
